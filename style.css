@@ -1,6 +1,23 @@
 html {
     height: 100%;
     width: 100%;
-    background-color: gray;
+    
   }
+
+  .principal{
+     background-color: gray;
+  };
   
+  h3.titulo-seccion {
+    color: green; 
+}
+h3{
+  color: green;
+}
+.azul{
+     color:blue;
+  };
+
+.rojo{
+     color: red;
+};
